@@ -5,7 +5,7 @@ The PRMO is dedicated to managing the Reproka worldbuilding project. Under this 
 
 In order to join the Reproka project, you must fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSe4_nVBj8_zVPOrRGe-YmvmoE-HS8XTko-ZfDSaECmusLkF4Q/viewform?usp=header). The council checks for responses between 21:00 and 22:00 Eastern US time. (UTC-4 or -5) (That is not a definite time, though that is the dedicated response checking time)
 
-In order to be in this org, you must be a programmer and be trusted by the PRMO.
+In order to be in this org, you must be a programmer (or council member) and be trusted by the PRMO.
 
 <!--
 
