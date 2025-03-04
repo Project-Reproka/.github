@@ -1,4 +1,4 @@
-# hai. t'ajaš'. ko-na-chi. pra. uzaja. hay.
+# hai. t'aiká. ko-na-chi. pra. uzaja. hay.
 Welcome to the Project Reproka Management Organization or PRMO.
 
 The PRMO is dedicated to managing the Reproka worldbuilding project. Under this org you may find various Reproka-related programs and websites.
